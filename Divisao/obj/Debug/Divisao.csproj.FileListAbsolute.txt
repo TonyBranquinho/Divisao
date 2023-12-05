@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Divisao\Divisao\bin\Debug\Divisao.exe.config
+C:\temp\ws-vs2019\Divisao\Divisao\bin\Debug\Divisao.exe
+C:\temp\ws-vs2019\Divisao\Divisao\bin\Debug\Divisao.pdb
+C:\temp\ws-vs2019\Divisao\Divisao\obj\Debug\Divisao.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Divisao\Divisao\obj\Debug\Divisao.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Divisao\Divisao\obj\Debug\Divisao.exe
+C:\temp\ws-vs2019\Divisao\Divisao\obj\Debug\Divisao.pdb
